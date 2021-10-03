@@ -37,7 +37,22 @@
 
 <h3 align="center"><b>Stay_Safe 😷 </b></h3>
 
+---
+
+ <p align="center">
+    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=35&width=500&lines=<<+CONTACTC+ME+ON+>>"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+
+ ---
+
 <p align="center">
+<a href="https://chat.whatsapp.com/EKVh4dlUwlm47so15NogTN" target="blank"><img align="center" src="https://github.com/SL-Alpha-X/SL-Alpha-X/blob/main/whatsapp.png"  height="40" width="40" /></a> &nbsp;&nbsp;
+</p>
 <a href="https://t.me/AlphaX_SUPPORT" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://wa.me/94772978164" target="blank"><img align="center" src="https://github.com/SL-Alpha-X/SL-Alpha-X/blob/main/whatsapp.png"  height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
