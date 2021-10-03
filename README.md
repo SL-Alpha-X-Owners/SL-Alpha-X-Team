@@ -42,7 +42,7 @@
  <p align="center">
     <a href="https://github.com/SL-Alpha-X/SL-Alpha-X">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=35&width=500&lines=<<+CONTACTC+ME+ON+>>"
+            src="https://readme-typing-svg.herokuapp.com?size=35&width=500&lines=<<+CONTACTC+US+ON+>>"
             alt="Typing SVG"
         />
     </a>
