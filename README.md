@@ -17,6 +17,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
 
+  
+  
 ---
  ___
  
@@ -35,3 +37,7 @@
 
 <h3 align="center"><b>Stay_Safe 😷 </b></h3>
 
+<p align="center">
+<a href="https://t.me/AlphaX_SUPPORT" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://wa.me/94772978164" target="blank"><img align="center" src="https://github.com/SL-Alpha-X/SL-Alpha-X/blob/main/whatsapp.png"  height="40" width="40" /></a> &nbsp;&nbsp;
+</p>
