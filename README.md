@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hello Welcome To Our Alpha-X-Team Official Github</b> </h1> 
+<h1 align="center"><b>Hello Welcome To Our Alpha-X-Team Official releasing account</b> </h1> 
 
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif"width="50" /> </a>
